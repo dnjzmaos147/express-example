@@ -1,4 +1,4 @@
-# ssss
+# test
 
 This repository presents examples of using [Sequelize](https://sequelize.org/) in a project with [Express](https://github.com/expressjs/express#readme).
 
